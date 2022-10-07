@@ -1,0 +1,11 @@
+
+< pat , 1 >
+< rat , 1 >
+< cat , 1 >
+< sat , 1 >
+< hat , 1 >
+< wat , 1 >
+< zat , 1 >
+< jat , 1 >
+< lat , 1 >
+< kat , 1 >

@@ -1,0 +1,26 @@
+
+< bat , 1 >
+< bat , 1 >
+< cat , 2 >
+< cat , 1 >
+< eat , 1 >
+< eat , 1 >
+< fat , 1 >
+< hat , 2 >
+< hat , 1 >
+< jat , 1 >
+< kat , 1 >
+< lat , 1 >
+< mat , 2 >
+< mat , 1 >
+< oat , 2 >
+< pat , 1 >
+< pat , 2 >
+< pat , 1 >
+< rat , 1 >
+< rat , 1 >
+< rat , 1 >
+< sat , 1 >
+< sat , 1 >
+< wat , 1 >
+< zat , 1 >
