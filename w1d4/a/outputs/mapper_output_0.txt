@@ -1,0 +1,9 @@
+
+< mat , 2 >
+< pat , 1 >
+< bat , 1 >
+< rat , 1 >
+< cat , 2 >
+< sat , 1 >
+< fat , 1 >
+< eat , 1 >

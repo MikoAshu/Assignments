@@ -1,8 +1,6 @@
 package w1_ass2.a;
 
-import w1_ass2.a.MapperA;
 import w1_ass2.Pair;
-import w1_ass2.a.ReducerA;
 import w1_ass2.StringPairComparator;
 
 import java.io.IOException;
@@ -23,7 +21,7 @@ public class InMapperWordCount {
     private static final String REDUCER_INPUT_PREFIX = "reducer_input_";
     private static final String OUTPUT_SUFFIX = ".txt";
     private static final String mapper_out_file = "mapper_output.txt";
-    private static final String OUT_DIR = "w1d4/a/outputs/";
+    private static final String OUT_DIR = "a/outputs/";
 
     InMapperWordCount(int reducerCount, List<String> inputSplits){
         reducers = new ArrayList<>();
@@ -42,7 +40,6 @@ public class InMapperWordCount {
             mapperOutputs.addAll(mapper.getPairs());
         }
 
-        assert mapperOutputs != null;
         mapperOutputs.sort((o1, o2) -> new StringPairComparator().compare(o1, o2));
         writeFile(mapper_out_file, mapperOutputs);
 
@@ -58,9 +55,8 @@ public class InMapperWordCount {
 
     private void generateReducerInput() {
         final Pair<String, List<Integer>>[] lastGroupPair = new Pair[]{null};
-        mapperOutputs.forEach(o -> {
-            shuffleSort(lastGroupPair, o);
-        });
+        mapperOutputs.forEach(o -> shuffleSort(lastGroupPair, o)
+        );
     }
 
     private void shuffleSort(Pair<String, List<Integer>>[] lastGroupPair, Pair<String, Integer> pair) {
