@@ -1,0 +1,11 @@
+
+( zat , 1 )
+( lat , 1 )
+( cat , 1 )
+( pat , 1 )
+( jat , 1 )
+( hat , 1 )
+( rat , 1 )
+( kat , 1 )
+( sat , 1 )
+( wat , 1 )
