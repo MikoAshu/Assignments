@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41c28b7e-d2f2-48ec-885f-107ab06c7fac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/W1D1_Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/W1D1_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/sample/Sample Output of W1D2 Part A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/sample/TestDataOutput Part B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/sample/W1D2 Part A.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/sample/W1D2 Part B.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/sample/testDataForW1D1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/Mapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/Reducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/StringPairComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/a/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/a/inputs/w1d1_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/a/outputs/mapper_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/a/outputs/reducer_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/a/outputs/reducer_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/mapper_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/mapper_output_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/mapper_output_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/mapper_output_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/reducer_input_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/reducer_input_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/reducer_input_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/reducer_input_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/reducer_output_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/reducer_output_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/reducer_output_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1_ass2/b/outputs/reducer_output_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/w1d2/w1d2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/Sample Output of W1D2 Part A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/TestDataOutput Part B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/W1D2 Part A.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/W1D2 Part B.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/testDataForW1D1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/Reducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/StringPairComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/a/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/a/inputs/w1d1_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/a/outputs/mapper_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/a/outputs/reducer_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/a/outputs/reducer_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/mapper_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/mapper_output_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/mapper_output_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/mapper_output_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/reducer_input_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/reducer_input_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/reducer_input_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/reducer_input_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/reducer_output_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/reducer_output_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/reducer_output_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/b/outputs/reducer_output_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_ass2/w1_ass2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Fuzf6c216M5Es0M4vn4rlIUQb0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/michaelworku/Dev/MIU/Big Data/Assignments/w1d2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41c28b7e-d2f2-48ec-885f-107ab06c7fac" name="Changes" comment="" />
+      <created>1665356857716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665356857716</updated>
+      <workItem from="1665356859189" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
