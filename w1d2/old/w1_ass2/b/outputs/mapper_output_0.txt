@@ -1,0 +1,11 @@
+
+< cat , 1 >
+< bat , 1 >
+< mat , 1 >
+< pat , 1 >
+< sat , 1 >
+< fat , 1 >
+< rat , 1 >
+< eat , 1 >
+< cat , 1 >
+< mat , 1 >

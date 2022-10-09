@@ -5,16 +5,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf87d012-727b-42b7-89b5-3f4159d84a72" name="Changes" comment="last version">
-      <change afterPath="$PROJECT_DIR$/w1d4/a/outputs/mapper_output_0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/w1_ass2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/w1d4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w1d4/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/w1d4/a/InMapperWordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/w1d4/a/InMapperWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d2/.idea/libraries/old.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/w1d2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/w1d2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/W1D1_Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/W1D1_Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/sample/Sample Output of W1D2 Part A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/sample/TestDataOutput Part B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/sample/W1D2 Part A.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/sample/W1D2 Part B.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/sample/testDataForW1D1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/Mapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/Reducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/StringPairComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/a/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/a/inputs/w1d1_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/a/outputs/mapper_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/a/outputs/reducer_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/a/outputs/reducer_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/mapper_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/mapper_output_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/mapper_output_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/mapper_output_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/reducer_input_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/reducer_input_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/reducer_input_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/reducer_input_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/reducer_output_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/reducer_output_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/reducer_output_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1_ass2/b/outputs/reducer_output_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/out/production/w1d2/w1d2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/sample/Sample Output of W1D2 Part A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/sample/TestDataOutput Part B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/sample/W1D2 Part A.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/sample/W1D2 Part B.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/sample/testDataForW1D1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/Reducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/StringPairComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/a/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/a/inputs/w1d1_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/a/outputs/mapper_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/a/outputs/reducer_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/a/outputs/reducer_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/mapper_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/mapper_output_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/mapper_output_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/mapper_output_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/reducer_input_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/reducer_input_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/reducer_input_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/reducer_input_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/reducer_output_0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/reducer_output_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/reducer_output_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/b/outputs/reducer_output_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1_ass2/w1_ass2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2/w1d2.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +104,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/michaelworku/Dev/MIU/Big Data/Assignments/w1d4",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/michaelworku/Dev/MIU/Big Data/Assignments/w1d4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/w1d4" />
@@ -61,6 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665109438403</updated>
       <workItem from="1665109439630" duration="1388000" />
+      <workItem from="1665354823563" duration="3013000" />
     </task>
     <task id="LOCAL-00001" summary="last version">
       <created>1665110196336</created>
